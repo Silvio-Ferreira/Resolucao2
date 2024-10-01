@@ -1,0 +1,14 @@
+C:\Projetos\testes estágio\Resolucao2\Exercicio3_ValorSoma\bin\Debug\net8.0\Exercicio3_ValorSoma.exe
+C:\Projetos\testes estágio\Resolucao2\Exercicio3_ValorSoma\bin\Debug\net8.0\Exercicio3_ValorSoma.deps.json
+C:\Projetos\testes estágio\Resolucao2\Exercicio3_ValorSoma\bin\Debug\net8.0\Exercicio3_ValorSoma.runtimeconfig.json
+C:\Projetos\testes estágio\Resolucao2\Exercicio3_ValorSoma\bin\Debug\net8.0\Exercicio3_ValorSoma.dll
+C:\Projetos\testes estágio\Resolucao2\Exercicio3_ValorSoma\bin\Debug\net8.0\Exercicio3_ValorSoma.pdb
+C:\Projetos\testes estágio\Resolucao2\Exercicio3_ValorSoma\obj\Debug\net8.0\Exercicio3_ValorSoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\testes estágio\Resolucao2\Exercicio3_ValorSoma\obj\Debug\net8.0\Exercicio3_ValorSoma.AssemblyInfoInputs.cache
+C:\Projetos\testes estágio\Resolucao2\Exercicio3_ValorSoma\obj\Debug\net8.0\Exercicio3_ValorSoma.AssemblyInfo.cs
+C:\Projetos\testes estágio\Resolucao2\Exercicio3_ValorSoma\obj\Debug\net8.0\Exercicio3_ValorSoma.csproj.CoreCompileInputs.cache
+C:\Projetos\testes estágio\Resolucao2\Exercicio3_ValorSoma\obj\Debug\net8.0\Exercicio3_ValorSoma.dll
+C:\Projetos\testes estágio\Resolucao2\Exercicio3_ValorSoma\obj\Debug\net8.0\refint\Exercicio3_ValorSoma.dll
+C:\Projetos\testes estágio\Resolucao2\Exercicio3_ValorSoma\obj\Debug\net8.0\Exercicio3_ValorSoma.pdb
+C:\Projetos\testes estágio\Resolucao2\Exercicio3_ValorSoma\obj\Debug\net8.0\Exercicio3_ValorSoma.genruntimeconfig.cache
+C:\Projetos\testes estágio\Resolucao2\Exercicio3_ValorSoma\obj\Debug\net8.0\ref\Exercicio3_ValorSoma.dll

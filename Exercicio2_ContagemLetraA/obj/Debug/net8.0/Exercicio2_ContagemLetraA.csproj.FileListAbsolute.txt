@@ -1,0 +1,14 @@
+C:\Projetos\testes estágio\Resolucao2\Exercicio2_ContagemLetraA\bin\Debug\net8.0\Exercicio2_ContagemLetraA.exe
+C:\Projetos\testes estágio\Resolucao2\Exercicio2_ContagemLetraA\bin\Debug\net8.0\Exercicio2_ContagemLetraA.deps.json
+C:\Projetos\testes estágio\Resolucao2\Exercicio2_ContagemLetraA\bin\Debug\net8.0\Exercicio2_ContagemLetraA.runtimeconfig.json
+C:\Projetos\testes estágio\Resolucao2\Exercicio2_ContagemLetraA\bin\Debug\net8.0\Exercicio2_ContagemLetraA.dll
+C:\Projetos\testes estágio\Resolucao2\Exercicio2_ContagemLetraA\bin\Debug\net8.0\Exercicio2_ContagemLetraA.pdb
+C:\Projetos\testes estágio\Resolucao2\Exercicio2_ContagemLetraA\obj\Debug\net8.0\Exercicio2_ContagemLetraA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\testes estágio\Resolucao2\Exercicio2_ContagemLetraA\obj\Debug\net8.0\Exercicio2_ContagemLetraA.AssemblyInfoInputs.cache
+C:\Projetos\testes estágio\Resolucao2\Exercicio2_ContagemLetraA\obj\Debug\net8.0\Exercicio2_ContagemLetraA.AssemblyInfo.cs
+C:\Projetos\testes estágio\Resolucao2\Exercicio2_ContagemLetraA\obj\Debug\net8.0\Exercicio2_ContagemLetraA.csproj.CoreCompileInputs.cache
+C:\Projetos\testes estágio\Resolucao2\Exercicio2_ContagemLetraA\obj\Debug\net8.0\Exercicio2_ContagemLetraA.dll
+C:\Projetos\testes estágio\Resolucao2\Exercicio2_ContagemLetraA\obj\Debug\net8.0\refint\Exercicio2_ContagemLetraA.dll
+C:\Projetos\testes estágio\Resolucao2\Exercicio2_ContagemLetraA\obj\Debug\net8.0\Exercicio2_ContagemLetraA.pdb
+C:\Projetos\testes estágio\Resolucao2\Exercicio2_ContagemLetraA\obj\Debug\net8.0\Exercicio2_ContagemLetraA.genruntimeconfig.cache
+C:\Projetos\testes estágio\Resolucao2\Exercicio2_ContagemLetraA\obj\Debug\net8.0\ref\Exercicio2_ContagemLetraA.dll
